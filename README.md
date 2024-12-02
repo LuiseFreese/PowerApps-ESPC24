@@ -21,7 +21,7 @@ We want to get you started with Power Apps and Power Automate and SharePoint and
 | 3. Introduction to Power Apps                     | 30 mins  | Basics of Power Apps Canvas Apps.                                  |
 | 4. Building the Power App                         | 1.5 hours | Creating the sign-up app with interactive exercises.               |
 | **Break**                                         | 15 mins  |                                                                    |
-| 5. Power Automate Placeholder                     | 2 hours   | Reserved for Power Automate integration and exercises.             |
+| 5. Power Automate                   | 2 hours   | Reserved for Power Automate integration and exercises.             |
 | **Break**                                         | 15 mins  |                                                                    |
 | 6. Best Practices & Introduction to Dataverse     | 1 hour    | Optimizing apps, flows, and Dataverse intro.                       |
 | 7. Q&A and Recap                                  | 30 mins   | Open floor for questions, recap, and final remarks.                |
